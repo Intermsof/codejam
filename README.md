@@ -1,1 +1,1 @@
-Folders are organized by year, and then round. Problem difficulties are ascending with the alphabet; problem B is (much) harder than problem A.
+Folders are organized by year, and then round. Problem difficulties are ascending with the alphabet; problem C is harder than B, which is harder A.
