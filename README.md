@@ -1,1 +1,1 @@
-Folders are organized by year, and then round. Problem difficulties are ascending with the alphabet; problem B is (much) harder than problem A. As for how long these problems take, according to the competition trailer (https://youtu.be/oJ_IzFsXcMo?t=29), these are problem that "other people" might not be able to solve in a week. 
+Folders are organized by year, and then round. Problem difficulties are ascending with the alphabet; problem B is (much) harder than problem A.
